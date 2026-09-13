@@ -32,7 +32,7 @@ git clone https://github.com/AmirhosseinDoost/acoustic-stealth-threshold.git
 cd acoustic-stealth-threshold/Code
 python Result_17_Information_Theory.py
 ```
-گگگ
+
 📝 Authors and Citation
 Mohammadreza Najafi (Imam Hussein University)
 
