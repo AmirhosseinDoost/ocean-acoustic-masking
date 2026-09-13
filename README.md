@@ -28,23 +28,20 @@ The analytical framework was developed in Python. To reproduce the results, the 
 Clone the repository and run the scripts within the `/Code` directory. Ensure that your local environment is pointed to the correct dataset paths if you are using the raw ShipsEar or ADEON databases.
 
 ```bash
-git clone https://github.com/AmirhosseinDoost/acoustic-stealth-threshold.git
+git clone [https://github.com/AmirhosseinDoost/acoustic-stealth-threshold.git](https://github.com/AmirhosseinDoost/acoustic-stealth-threshold.git)
 cd acoustic-stealth-threshold/Code
 python Result_17_Information_Theory.py
 ```
-
 📝 Authors and Citation
 Mohammadreza Najafi (Imam Hussein University)
 
 Amirhossein Doost (K. N. Toosi University of Technology) - Corresponding Author
 
 If you utilize this code or the findings in your research, please consider citing our paper:
-```
-Code snippet
+
 @article{najafi2026assessing,
   title={Assessing the Detectability Threshold of Acoustic Signatures Using Phase-Coupling and Information Theory in Real Ocean Backgrounds},
   author={Najafi, Mohammadreza and Doost, Amirhossein},
   journal={Acta Acustica},
   year={2026}
 }
-```
